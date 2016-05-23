@@ -2,7 +2,6 @@
 *.db
 *.sw*
 .tmp
-dist
 # Logs
 logs
 *.log
